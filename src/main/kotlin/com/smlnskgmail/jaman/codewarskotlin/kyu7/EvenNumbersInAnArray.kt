@@ -5,7 +5,7 @@ class EvenNumbersInAnArray(
         private val number: Int
 ) {
 
-    fun result(): List<Int> {
+    fun solution(): List<Int> {
         return array.filter { it % 2 == 0 }.takeLast(number)
     }
 
