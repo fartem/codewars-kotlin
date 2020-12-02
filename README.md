@@ -14,4 +14,4 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 
 | Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
-| Even numbers in an array | [Link](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c) | [Link](https://github.com/fartem/codewars-kotlin/blob/master/src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/EvenNumbersInAnArray.kt) |
+| Even numbers in an array | [Link](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/EvenNumbersInAnArray.kt) |
