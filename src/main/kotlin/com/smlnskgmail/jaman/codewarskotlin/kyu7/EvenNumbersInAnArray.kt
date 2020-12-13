@@ -6,6 +6,7 @@ class EvenNumbersInAnArray(
         private val number: Int,
 ) {
 
+    @Suppress("MagicNumber")
     fun solution(): List<Int> {
         return array.filter { it % 2 == 0 }.takeLast(number)
     }

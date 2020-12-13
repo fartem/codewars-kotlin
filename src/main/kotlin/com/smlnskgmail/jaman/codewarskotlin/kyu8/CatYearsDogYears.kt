@@ -3,6 +3,7 @@ package com.smlnskgmail.jaman.codewarskotlin.kyu8
 // https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b
 class CatYearsDogYears(private val input: Int) {
 
+    @Suppress("MagicNumber")
     fun solution(): Array<Int> {
         return when (input) {
             1 -> arrayOf(1, 15, 15)
