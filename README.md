@@ -14,7 +14,8 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 
 | Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
-| Cat years, Dog years| [Link](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/CatYearsDogYears.kt) |
+| Cat years, Dog years | [Link](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/CatYearsDogYears.kt) |
+| The Feast of Many Beasts | [Link](https://www.codewars.com/kata/5aa736a455f906981800360d) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/TheFeastOfManyBeasts.kt) |
 
 ### 7 kyu
 
@@ -22,3 +23,4 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | --- | --- | --- |
 | Even numbers in an array | [Link](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/EvenNumbersInAnArray.kt) |
 | Hide password from jdbc url | [Link](https://www.codewars.com/kata/5a726f16373c2ee6c60000db) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/HidePasswordFromJDBCUrl.kt) |
+| Predict your age! | [Link](https://www.codewars.com/kata/5aff237c578a14752d0035ae) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/PredictYourAge.kt) |
