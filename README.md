@@ -21,7 +21,9 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 
 | Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
+| Alphabetical Sequence | [Link](https://www.codewars.com/kata/5bd00c99dbc73908bb00057a) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/AlphabeticalSequence.kt) |
 | Even numbers in an array | [Link](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/EvenNumbersInAnArray.kt) |
+| Find Screen Size | [Link](https://www.codewars.com/kata/5bbd279c8f8bbd5ee500000f) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/FindScreenSize.kt) |
 | Hide password from jdbc url | [Link](https://www.codewars.com/kata/5a726f16373c2ee6c60000db) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/HidePasswordFromJDBCUrl.kt) |
 | Plus - minus - plus - plus - ... - Count | [Link](https://www.codewars.com/kata/5bbb8887484fcd36fb0020ca) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/PlusMinusPlusPlusCount.kt) |
 | Predict your age! | [Link](https://www.codewars.com/kata/5aff237c578a14752d0035ae) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/PredictYourAge.kt) |
