@@ -34,4 +34,11 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 
 | Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
+| Decode the Morse code | [Link](https://www.codewars.com/kata/54b724efac3d5402db00065e) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/DecodeTheMorseCode.kt) |
 | FIXME: Hello | [Link](https://www.codewars.com/kata/5b0a80ce84a30f4762000069) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/FIXMEHello.kt) |
+
+### 4 kyu
+
+| Name | Link to Codewars | Link to solution |
+| --- | --- | --- |
+| Most frequently used words in a text | [Link](https://www.codewars.com/kata/51e056fe544cf36c410000fb) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu4/MostFrequentlyUsedWordsInAText.kt) |
