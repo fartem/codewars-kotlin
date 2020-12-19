@@ -16,6 +16,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | --- | --- | --- |
 | Cat years, Dog years | [Link](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/CatYearsDogYears.kt) |
 | Closest elevator | [Link](https://www.codewars.com/kata/5c374b346a5d0f77af500a5a) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/ClosestElevator.kt) |
+| Find the smallest integer in the array | [Link](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/FindTheSmallestIntegerInTheArray.kt) |
 | The Feast of Many Beasts | [Link](https://www.codewars.com/kata/5aa736a455f906981800360d) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/TheFeastOfManyBeasts.kt) |
 
 ### 7 kyu
@@ -34,6 +35,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 
 | Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
+| Counting Duplicates | [Link](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/CountingDuplicates.kt) |
 | Decode the Morse code | [Link](https://www.codewars.com/kata/54b724efac3d5402db00065e) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/DecodeTheMorseCode.kt) |
 | FIXME: Hello | [Link](https://www.codewars.com/kata/5b0a80ce84a30f4762000069) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/FIXMEHello.kt) |
 
