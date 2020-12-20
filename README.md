@@ -1,4 +1,4 @@
-# codewars-kotlin 
+# codewars-kotlin
 
 ## About
 
@@ -18,6 +18,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Closest elevator | [Link](https://www.codewars.com/kata/5c374b346a5d0f77af500a5a) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/ClosestElevator.kt) |
 | Find the smallest integer in the array | [Link](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/FindTheSmallestIntegerInTheArray.kt) |
 | Grasshopper - Summation | [Link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/GrasshopperSummation.kt) |
+| String repeat | [Link](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/StringRepeat.kt) |
 | The Feast of Many Beasts | [Link](https://www.codewars.com/kata/5aa736a455f906981800360d) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/TheFeastOfManyBeasts.kt) |
 
 ### 7 kyu
@@ -28,6 +29,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Even numbers in an array | [Link](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/EvenNumbersInAnArray.kt) |
 | Find Screen Size | [Link](https://www.codewars.com/kata/5bbd279c8f8bbd5ee500000f) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/FindScreenSize.kt) |
 | Hide password from jdbc url | [Link](https://www.codewars.com/kata/5a726f16373c2ee6c60000db) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/HidePasswordFromJDBCUrl.kt) |
+| Move 10 | [Link](https://www.codewars.com/kata/57cf50a7eca2603de0000090) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/Move10.kt) |
 | Plus - minus - plus - plus - ... - Count | [Link](https://www.codewars.com/kata/5bbb8887484fcd36fb0020ca) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/PlusMinusPlusPlusCount.kt) |
 | Predict your age! | [Link](https://www.codewars.com/kata/5aff237c578a14752d0035ae) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/PredictYourAge.kt) |
 | Ultimate Array Reverser | [Link](https://www.codewars.com/kata/5c3433a4d828182e420f4197) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/UltimateArrayReverser.kt) |
