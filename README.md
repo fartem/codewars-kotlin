@@ -14,6 +14,8 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 
 | Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
+| Beginner - Lost Without a Map | [Link](https://www.codewars.com/kata/57f781872e3d8ca2a000007e) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/BeginnerLostWithoutAMap.kt) |
+| Beginner - Reduce but Grow | [Link](https://www.codewars.com/kata/57f780909f7e8e3183000078) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/BeginnerReduceButGrow.kt) |
 | Cat years, Dog years | [Link](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/CatYearsDogYears.kt) |
 | Closest elevator | [Link](https://www.codewars.com/kata/5c374b346a5d0f77af500a5a) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/ClosestElevator.kt) |
 | Find the smallest integer in the array | [Link](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/FindTheSmallestIntegerInTheArray.kt) |
