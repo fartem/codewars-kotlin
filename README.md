@@ -20,6 +20,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Closest elevator | [Link](https://www.codewars.com/kata/5c374b346a5d0f77af500a5a) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/ClosestElevator.kt) |
 | Find the smallest integer in the array | [Link](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/FindTheSmallestIntegerInTheArray.kt) |
 | Grasshopper - Summation | [Link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/GrasshopperSummation.kt) |
+| Is he gonna survive? | [Link](https://www.codewars.com/kata/59ca8246d751df55cc00014c) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/IsHeGonnaSurvive.kt) |
 | String repeat | [Link](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/StringRepeat.kt) |
 | The Feast of Many Beasts | [Link](https://www.codewars.com/kata/5aa736a455f906981800360d) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/TheFeastOfManyBeasts.kt) |
 
@@ -44,6 +45,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Decode the Morse code | [Link](https://www.codewars.com/kata/54b724efac3d5402db00065e) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/DecodeTheMorseCode.kt) |
 | FIXME: Hello | [Link](https://www.codewars.com/kata/5b0a80ce84a30f4762000069) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/FIXMEHello.kt) |
 | HTML dynamic color string generation | [Link](https://www.codewars.com/kata/56f1c6034d0c330e4a001059) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/HTMLDynamicColorStringGeneration.kt) |
+| Java format Unicode encoder/decorder | [Link](https://www.codewars.com/kata/58e2c062542a419083000033) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/JavaFormatUnicodeEncoderDecoder.kt) |
 
 ### 4 kyu
 
