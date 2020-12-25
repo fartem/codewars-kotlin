@@ -32,6 +32,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Even numbers in an array | [Link](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/EvenNumbersInAnArray.kt) |
 | Find Screen Size | [Link](https://www.codewars.com/kata/5bbd279c8f8bbd5ee500000f) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/FindScreenSize.kt) |
 | Hide password from jdbc url | [Link](https://www.codewars.com/kata/5a726f16373c2ee6c60000db) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/HidePasswordFromJDBCUrl.kt) |
+| Leap Year | [Link](https://www.codewars.com/kata/526c7363236867513f0005ca) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/LeapYear.kt) |
 | Move 10 | [Link](https://www.codewars.com/kata/57cf50a7eca2603de0000090) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/Move10.kt) |
 | Plus - minus - plus - plus - ... - Count | [Link](https://www.codewars.com/kata/5bbb8887484fcd36fb0020ca) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/PlusMinusPlusPlusCount.kt) |
 | Predict your age! | [Link](https://www.codewars.com/kata/5aff237c578a14752d0035ae) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/PredictYourAge.kt) |
@@ -46,6 +47,12 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | FIXME: Hello | [Link](https://www.codewars.com/kata/5b0a80ce84a30f4762000069) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/FIXMEHello.kt) |
 | HTML dynamic color string generation | [Link](https://www.codewars.com/kata/56f1c6034d0c330e4a001059) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/HTMLDynamicColorStringGeneration.kt) |
 | Java format Unicode encoder/decorder | [Link](https://www.codewars.com/kata/58e2c062542a419083000033) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/JavaFormatUnicodeEncoderDecoder.kt) |
+
+### 5 kyu
+
+| Name | Link to Codewars | Link to solution |
+| --- | --- | --- |
+| RGB To Hex Conversion | [Link](https://www.codewars.com/kata/513e08acc600c94f01000001) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu5/RGBToHexConversion.kt) |
 
 ### 4 kyu
 
