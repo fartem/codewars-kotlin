@@ -36,6 +36,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Move 10 | [Link](https://www.codewars.com/kata/57cf50a7eca2603de0000090) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/Move10.kt) |
 | Plus - minus - plus - plus - ... - Count | [Link](https://www.codewars.com/kata/5bbb8887484fcd36fb0020ca) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/PlusMinusPlusPlusCount.kt) |
 | Predict your age! | [Link](https://www.codewars.com/kata/5aff237c578a14752d0035ae) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/PredictYourAge.kt) |
+| Two Oldest Ages | [Link](https://www.codewars.com/kata/511f11d355fe575d2c000001) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/TwoOldestAges.kt) |
 | Ultimate Array Reverser | [Link](https://www.codewars.com/kata/5c3433a4d828182e420f4197) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/UltimateArrayReverser.kt) |
 
 ### 6 kyu
@@ -47,6 +48,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | FIXME: Hello | [Link](https://www.codewars.com/kata/5b0a80ce84a30f4762000069) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/FIXMEHello.kt) |
 | HTML dynamic color string generation | [Link](https://www.codewars.com/kata/56f1c6034d0c330e4a001059) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/HTMLDynamicColorStringGeneration.kt) |
 | Java format Unicode encoder/decorder | [Link](https://www.codewars.com/kata/58e2c062542a419083000033) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/JavaFormatUnicodeEncoderDecoder.kt) |
+| Meeting | [Link](https://www.codewars.com/kata/59df2f8f08c6cec835000012) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/Meeting.kt) |
 
 ### 5 kyu
 
