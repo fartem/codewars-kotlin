@@ -29,6 +29,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
 | Alphabetical Sequence | [Link](https://www.codewars.com/kata/5bd00c99dbc73908bb00057a) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/AlphabeticalSequence.kt) |
+| Complementary DNA | [Link](https://www.codewars.com/kata/554e4a2f232cdd87d9000038) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/ComplementaryDNA.kt) |
 | Even numbers in an array | [Link](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/EvenNumbersInAnArray.kt) |
 | Find Screen Size | [Link](https://www.codewars.com/kata/5bbd279c8f8bbd5ee500000f) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/FindScreenSize.kt) |
 | Hide password from jdbc url | [Link](https://www.codewars.com/kata/5a726f16373c2ee6c60000db) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/HidePasswordFromJDBCUrl.kt) |
@@ -48,6 +49,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | FIXME: Hello | [Link](https://www.codewars.com/kata/5b0a80ce84a30f4762000069) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/FIXMEHello.kt) |
 | HTML dynamic color string generation | [Link](https://www.codewars.com/kata/56f1c6034d0c330e4a001059) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/HTMLDynamicColorStringGeneration.kt) |
 | Java format Unicode encoder/decorder | [Link](https://www.codewars.com/kata/58e2c062542a419083000033) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/JavaFormatUnicodeEncoderDecoder.kt) |
+| L3375p34k | [Link](https://www.codewars.com/kata/543bfbecdef6345f52000e4d) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/L3375p34k.kt) |
 | Meeting | [Link](https://www.codewars.com/kata/59df2f8f08c6cec835000012) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/Meeting.kt) |
 
 ### 5 kyu
