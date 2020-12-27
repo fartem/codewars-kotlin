@@ -32,6 +32,8 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Complementary DNA | [Link](https://www.codewars.com/kata/554e4a2f232cdd87d9000038) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/ComplementaryDNA.kt) |
 | Even numbers in an array | [Link](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/EvenNumbersInAnArray.kt) |
 | Find Screen Size | [Link](https://www.codewars.com/kata/5bbd279c8f8bbd5ee500000f) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/FindScreenSize.kt) |
+| Going to the cinema | [Link](https://www.codewars.com/kata/562f91ff6a8b77dfe900006e) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/GoingToTheCinema.kt) |
+| Growth of a Population | [Link](https://www.codewars.com/kata/563b662a59afc2b5120000c6) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/GrowthOfAPopulation.kt) |
 | Hide password from jdbc url | [Link](https://www.codewars.com/kata/5a726f16373c2ee6c60000db) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/HidePasswordFromJDBCUrl.kt) |
 | Leap Year | [Link](https://www.codewars.com/kata/526c7363236867513f0005ca) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/LeapYear.kt) |
 | Move 10 | [Link](https://www.codewars.com/kata/57cf50a7eca2603de0000090) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/Move10.kt) |
