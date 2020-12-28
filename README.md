@@ -21,6 +21,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Find the smallest integer in the array | [Link](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/FindTheSmallestIntegerInTheArray.kt) |
 | Grasshopper - Summation | [Link](https://www.codewars.com/kata/55d24f55d7dd296eb9000030) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/GrasshopperSummation.kt) |
 | Is he gonna survive? | [Link](https://www.codewars.com/kata/59ca8246d751df55cc00014c) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/IsHeGonnaSurvive.kt) |
+| Keep Hydrated! | [Link](https://www.codewars.com/kata/582cb0224e56e068d800003c) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/KeepHydrated.kt) |
 | String repeat | [Link](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/StringRepeat.kt) |
 | The Feast of Many Beasts | [Link](https://www.codewars.com/kata/5aa736a455f906981800360d) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu8/TheFeastOfManyBeasts.kt) |
 
@@ -53,6 +54,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Java format Unicode encoder/decorder | [Link](https://www.codewars.com/kata/58e2c062542a419083000033) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/JavaFormatUnicodeEncoderDecoder.kt) |
 | L3375p34k | [Link](https://www.codewars.com/kata/543bfbecdef6345f52000e4d) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/L3375p34k.kt) |
 | Meeting | [Link](https://www.codewars.com/kata/59df2f8f08c6cec835000012) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/Meeting.kt) |
+| SHA-256 Cracker | [Link](https://www.codewars.com/kata/587f0abdd8730aafd4000035) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/SHA256Cracker.kt) |
 
 ### 5 kyu
 
