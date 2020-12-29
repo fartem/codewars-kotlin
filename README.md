@@ -60,6 +60,8 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 
 | Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
+| Convert A Hex String To RGB | [Link](https://www.codewars.com/kata/5282b48bb70058e4c4000fa7) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu5/ConvertAHexStringToRGB.kt) |
+| Last digit of a large number | [Link](https://www.codewars.com/kata/5511b2f550906349a70004e1) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu5/LastDigitOfALargeNumber.kt) |
 | RGB To Hex Conversion | [Link](https://www.codewars.com/kata/513e08acc600c94f01000001) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu5/RGBToHexConversion.kt) |
 
 ### 4 kyu
