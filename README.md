@@ -37,6 +37,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Growth of a Population | [Link](https://www.codewars.com/kata/563b662a59afc2b5120000c6) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/GrowthOfAPopulation.kt) |
 | Hide password from jdbc url | [Link](https://www.codewars.com/kata/5a726f16373c2ee6c60000db) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/HidePasswordFromJDBCUrl.kt) |
 | Leap Year | [Link](https://www.codewars.com/kata/526c7363236867513f0005ca) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/LeapYear.kt) |
+| Maximum Length Difference | [Link](https://www.codewars.com/kata/5663f5305102699bad000056) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/MaximumLengthDifference.kt) |
 | Move 10 | [Link](https://www.codewars.com/kata/57cf50a7eca2603de0000090) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/Move10.kt) |
 | Plus - minus - plus - plus - ... - Count | [Link](https://www.codewars.com/kata/5bbb8887484fcd36fb0020ca) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/PlusMinusPlusPlusCount.kt) |
 | Predict your age! | [Link](https://www.codewars.com/kata/5aff237c578a14752d0035ae) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/PredictYourAge.kt) |
@@ -49,6 +50,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | --- | --- | --- |
 | Counting Duplicates | [Link](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/CountingDuplicates.kt) |
 | Decode the Morse code | [Link](https://www.codewars.com/kata/54b724efac3d5402db00065e) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/DecodeTheMorseCode.kt) |
+| Find The Parity Outlier | [Link](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/FindTheParityOutlier.kt) |
 | FIXME: Hello | [Link](https://www.codewars.com/kata/5b0a80ce84a30f4762000069) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/FIXMEHello.kt) |
 | HTML dynamic color string generation | [Link](https://www.codewars.com/kata/56f1c6034d0c330e4a001059) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/HTMLDynamicColorStringGeneration.kt) |
 | Java format Unicode encoder/decorder | [Link](https://www.codewars.com/kata/58e2c062542a419083000033) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/JavaFormatUnicodeEncoderDecoder.kt) |
