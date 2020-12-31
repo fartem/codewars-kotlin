@@ -33,6 +33,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Complementary DNA | [Link](https://www.codewars.com/kata/554e4a2f232cdd87d9000038) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/ComplementaryDNA.kt) |
 | Even numbers in an array | [Link](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/EvenNumbersInAnArray.kt) |
 | Find Screen Size | [Link](https://www.codewars.com/kata/5bbd279c8f8bbd5ee500000f) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/FindScreenSize.kt) |
+| Fizz Buzz Cuckoo Clock | [Link](https://www.codewars.com/kata/58485a43d750d23bad0000e6) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/FizzBuzzCuckooClock.kt) |
 | Going to the cinema | [Link](https://www.codewars.com/kata/562f91ff6a8b77dfe900006e) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/GoingToTheCinema.kt) |
 | Growth of a Population | [Link](https://www.codewars.com/kata/563b662a59afc2b5120000c6) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/GrowthOfAPopulation.kt) |
 | Hide password from jdbc url | [Link](https://www.codewars.com/kata/5a726f16373c2ee6c60000db) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/HidePasswordFromJDBCUrl.kt) |
@@ -49,6 +50,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 
 | Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
+| Alphabet war - airstrike - letters massacre | [Link](https://www.codewars.com/kata/5938f5b606c3033f4700015a) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/AlphabetWarAirstrikeLettersMassacre.kt) |
 | Counting Duplicates | [Link](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/CountingDuplicates.kt) |
 | Decode the Morse code | [Link](https://www.codewars.com/kata/54b724efac3d5402db00065e) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/DecodeTheMorseCode.kt) |
 | Find the missing letter | [Link](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/FindTheMissingLetter.kt) |
