@@ -30,6 +30,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
 | Alphabetical Sequence | [Link](https://www.codewars.com/kata/5bd00c99dbc73908bb00057a) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/AlphabeticalSequence.kt) |
+| Alphabet war | [Link](https://www.codewars.com/kata/59377c53e66267c8f6000027) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/AlphabetWar.kt) |
 | Complementary DNA | [Link](https://www.codewars.com/kata/554e4a2f232cdd87d9000038) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/ComplementaryDNA.kt) |
 | Even numbers in an array | [Link](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/EvenNumbersInAnArray.kt) |
 | Find Screen Size | [Link](https://www.codewars.com/kata/5bbd279c8f8bbd5ee500000f) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/FindScreenSize.kt) |
@@ -43,6 +44,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Move 10 | [Link](https://www.codewars.com/kata/57cf50a7eca2603de0000090) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/Move10.kt) |
 | Plus - minus - plus - plus - ... - Count | [Link](https://www.codewars.com/kata/5bbb8887484fcd36fb0020ca) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/PlusMinusPlusPlusCount.kt) |
 | Predict your age! | [Link](https://www.codewars.com/kata/5aff237c578a14752d0035ae) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/PredictYourAge.kt) |
+| Simple beads count | [Link](https://www.codewars.com/kata/58712dfa5c538b6fc7000569) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/SimpleBeadsCount.kt) |
 | Two Oldest Ages | [Link](https://www.codewars.com/kata/511f11d355fe575d2c000001) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/TwoOldestAges.kt) |
 | Ultimate Array Reverser | [Link](https://www.codewars.com/kata/5c3433a4d828182e420f4197) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu7/UltimateArrayReverser.kt) |
 
