@@ -55,6 +55,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Alphabet war - airstrike - letters massacre | [Link](https://www.codewars.com/kata/5938f5b606c3033f4700015a) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/AlphabetWarAirstrikeLettersMassacre.kt) |
 | Counting Duplicates | [Link](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/CountingDuplicates.kt) |
 | Decode the Morse code | [Link](https://www.codewars.com/kata/54b724efac3d5402db00065e) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/DecodeTheMorseCode.kt) |
+| Decompose double strand DNA into 6 reading frames | [Link](https://www.codewars.com/kata/57519060f2dac7ec95000c8e) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/DecomposeDoubleStrandDNAInto6ReadingFrames.kt) |
 | Find the missing letter | [Link](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/FindTheMissingLetter.kt) |
 | Find The Parity Outlier | [Link](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/FindTheParityOutlier.kt) |
 | FIXME: Hello | [Link](https://www.codewars.com/kata/5b0a80ce84a30f4762000069) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/FIXMEHello.kt) |
