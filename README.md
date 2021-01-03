@@ -63,6 +63,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | L3375p34k | [Link](https://www.codewars.com/kata/543bfbecdef6345f52000e4d) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/L3375p34k.kt) |
 | Meeting | [Link](https://www.codewars.com/kata/59df2f8f08c6cec835000012) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/Meeting.kt) |
 | SHA-256 Cracker | [Link](https://www.codewars.com/kata/587f0abdd8730aafd4000035) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/SHA256Cracker.kt) |
+| Which are in? | [Link](https://www.codewars.com/kata/550554fd08b86f84fe000a58) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu6/WhichAreIn.kt) |
 
 ### 5 kyu
 
@@ -77,3 +78,4 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
 | Most frequently used words in a text | [Link](https://www.codewars.com/kata/51e056fe544cf36c410000fb) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu4/MostFrequentlyUsedWordsInAText.kt) |
+| Next bigger number with the same digits | [Link](https://www.codewars.com/kata/55983863da40caa2c900004e) | [Link](./src/main/kotlin/com/smlnskgmail/jaman/codewarskotlin/kyu4/NextBiggerNumberWithTheSameDigits.kt) |
